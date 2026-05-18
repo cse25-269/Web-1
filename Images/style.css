@@ -28,7 +28,6 @@
     margin-left: 140px;
     font-weight: bold;
     padding-bottom: 0%;  
-    font-family: 'Times New Roman', Times, serif;
 }
 .nav ul li a{
      text-decoration:none ;
@@ -36,14 +35,9 @@
     width: 100%;
     
 }
-.nav ul li a:hover{
-    transition: 0.5s ease;
-    border-bottom: 2px solid black;
-}
-
 
 .buttons-cards{
-    background-color: lightgray;
+    background-color: grey;
 }
 .card-body{
     background-color: whitesmoke;
@@ -56,17 +50,19 @@
 }
 h2{
     text-align: center;
-
+;
 }
-.Models{
+h1{
     text-align: center;
-    font-size: x-large;
-    font-weight: bold;
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
-    text-transform: uppercase;
+    background-color:darkgray;
+
 }
 
+.welcome{
+    text-align: center;
+    
+}
+ 
 .why-loft {
         padding: 60px 20px;
         background-color: white; 
@@ -127,34 +123,7 @@ h2{
     font-size: large;
     font-weight: bold
  }
- .Welcome{
+ .welcome{
     text-align: center;
-    font-size: large;
-    font-weight: bold;
-    color: black;
- }
- .Gallery{
-    text-align: center;
-    font-size: 40px;
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
-    text-transform: uppercase;
- }
- .Paragraph{
-    font-size:x-large;
-    color: red;
-    font-weight: bold;
-    font-family: 'Times New Roman', Times, serif;
- }
- .Offroad{
-    font-size: x-large;
-    font-weight: bold;
-    color: red;
-    font-family: 'Times New Roman', Times, serif;
- }
- .Performance{
-    font-size: x-large;
-    font-weight: bold;
-    color: red;
-    font-family: 'Times New Roman', Times, serif;
- }
+    
+}
