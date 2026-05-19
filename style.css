@@ -65,73 +65,7 @@ h2{
     font-family: 'Times New Roman', Times, serif;
     text-transform: uppercase;
 }
-
-.why-loft {
-        padding: 60px 20px;
-        background-color: white; 
-        text-align: center;
-        font-family: 'Times New Roman', Times, serif;
-}
-
- .title {
-        font-size: 2rem;
-        margin-bottom: 40px;
-        color: dark black;
-        text-transform: uppercase;
-        letter-spacing: 2px;
- }
-
-.card-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 30px;
-        max-width: 1100px;
-        margin: 0 auto;
-        
-}
-
- .benefit-card {
-        background:lightgray;
-        padding: 30px;
-        border-radius: 8px;    
-        flex: 1;
-        min-width: 280px; 
-        max-width: 350px;
-        transition: transform 0.3s ease;
-  }
-
- .benefit-card:hover {
-        transform: scale(1.05); 
- }
-
-.benefit-card h3 {
-        font-size: 1.25rem;
-        margin-bottom: 15px;
-        color: black;
-  }
-
- .benefit-card p {
-        font-size: large;   
-        color: gray;
- }
-
- .moto p{
-    font-family: 'Times New Roman', Times, serif;
-     color: black;
-    
- }
- .moto{
-    text-align: center;
-    font-size: large;
-    font-weight: bold
- }
- .Welcome{
-    text-align: center;
-    font-size: large;
-    font-weight: bold;
-    color: black;
- }
+ 
  .Gallery{
     text-align: center;
     font-size: 40px;
