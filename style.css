@@ -85,14 +85,18 @@ h2{
     color: red;
     font-family: 'Times New Roman', Times, serif;
  }
- .Performance{
+ .Performance{ 
     font-size: x-large;
     font-weight: bold;
     color: red;
     font-family: 'Times New Roman', Times, serif;
  }
-
-
+.Welcome{
+    text-align: center;
+    font-size: medium;
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+}
     
     .why-us {
         padding: 60px 20px;
