@@ -93,9 +93,10 @@ h2{
  }
 
 
+    
     .why-us {
         padding: 60px 20px;
-        background-color: white; 
+        background-color: #f9f9f9; 
         text-align: center;
         font-family: 'Times New Roman', Times, serif;
     }
@@ -103,7 +104,7 @@ h2{
     .title {
         font-size: 2rem;
         margin-bottom: 40px;
-        color: black;
+        color: #333;
         text-transform: uppercase;
         letter-spacing: 2px;
         font-family: 'Times New Roman', Times, serif;
@@ -119,9 +120,11 @@ h2{
     }
 
     .benefit-card {
-        background: whitesmoke;
+        background: #fff;
         padding: 30px;
         border-radius: 8px;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        flex: 1;
         transition: transform 0.3s ease;
     }
 
@@ -132,12 +135,13 @@ h2{
     .benefit-card h3 {
         font-size: 1.25rem;
         margin-bottom: 15px;
-        color: black;
+        color: #000;
     }
 
     .benefit-card p {
         font-size: 0.95rem;
         line-height: 1.6;
-        color: grey;
+        color: #666;
     }
+
 
