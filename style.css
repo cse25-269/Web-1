@@ -91,3 +91,53 @@ h2{
     color: red;
     font-family: 'Times New Roman', Times, serif;
  }
+
+
+    .why-us {
+        padding: 60px 20px;
+        background-color: white; 
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .title {
+        font-size: 2rem;
+        margin-bottom: 40px;
+        color: black;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .benefits-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+        max-width: 1100px;
+        margin: 0 auto;
+    }
+
+    .benefit-card {
+        background: whitesmoke;
+        padding: 30px;
+        border-radius: 8px;
+        transition: transform 0.3s ease;
+    }
+
+    .benefit-card:hover {
+        transform: translateY(-5px); 
+    }
+
+    .benefit-card h3 {
+        font-size: 1.25rem;
+        margin-bottom: 15px;
+        color: black;
+    }
+
+    .benefit-card p {
+        font-size: 0.95rem;
+        line-height: 1.6;
+        color: grey;
+    }
+
