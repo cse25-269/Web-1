@@ -156,6 +156,21 @@ h2{
         color: #666;
     }
 
+    .contact-info{
+        padding: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+    .info-box{
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+      
+    }
+
+    .contact-form{
+        padding: 20px 100px
+    }
+
 
 
 
